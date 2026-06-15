@@ -23,6 +23,11 @@
 - Arduino IDE
 - Wokwi Simulator
 - ThingSpeak
+## Wokwi Simulation
+https://wokwi.com/projects/466738765313940481
+
+## ThingSpeak Dashboard
+https://thingspeak.mathworks.com/channels/3407443
 
 ## Author
 Devraj Singh
